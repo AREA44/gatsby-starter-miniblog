@@ -1,0 +1,25 @@
+{
+  "private": true,
+  "name": "gatsby-starter-anima",
+  "description": "Gatsby Starter by AREA44",
+  "version": "1.0.0",
+  "author": "AREA44",
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build --prefix-paths",
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@lekoarts/gatsby-theme-minimal-blog": "4.1.4",
+    "gatsby": "4.7.2",
+    "gatsby-omni-font-loader": "1.3.1",
+    "gatsby-plugin-feed": "4.0.0",
+    "gatsby-plugin-manifest": "4.0.0",
+    "gatsby-plugin-sitemap": "5.0.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  }
+}
