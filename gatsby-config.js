@@ -1,11 +1,11 @@
 module.exports = {
-  pathPrefix: "/gatsby-starter-anima",
+  pathPrefix: "/gatsby-starter-blog",
   siteMetadata: {
     // See all options: https://github.com/LekoArts/gatsby-themes/tree/main/examples/minimal-blog
-    siteTitle: `Gatsby Starter Anima`,
-    siteTitleAlt: `AREA44 | Gatsby Starter Anima`,
+    siteTitle: `Gatsby Starter Blog`,
+    siteTitleAlt: `AREA44 | Gatsby Starter Blog`,
     siteHeadline: `Gatsby Starter by AREA44`,
-    siteUrl: `https://area44.github.io/gatsby-starter-anima/`,
+    siteUrl: `https://area44.github.io/gatsby-starter-blog/`,
     siteDescription: "Gatsby Starter by AREA44",
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
