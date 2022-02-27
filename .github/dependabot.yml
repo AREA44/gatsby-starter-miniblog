@@ -10,11 +10,3 @@ updates:
     labels:
       - "github actions dependencies"
       - "dependabot"
-      
-  - package-ecosystem: "npm"
-    directory: "/"
-    schedule:
-      interval: daily
-    labels:
-      - "npm dependencies"
-      - "dependabot"
