@@ -1,11 +1,11 @@
 module.exports = {
-  pathPrefix: "/gatsby-starter-blog",
+  pathPrefix: "/gatsby-starter-miniblog",
   siteMetadata: {
     // See all options: https://github.com/LekoArts/gatsby-themes/tree/main/examples/minimal-blog
-    siteTitle: `Gatsby Starter Blog`,
-    siteTitleAlt: `AREA44 | Gatsby Starter Blog`,
+    siteTitle: `Gatsby Starter MiniBlog`,
+    siteTitleAlt: `AREA44 | Gatsby Starter MiniBlog`,
     siteHeadline: `Gatsby Starter by AREA44`,
-    siteUrl: `https://area44.github.io/gatsby-starter-blog/`,
+    siteUrl: `https://area44.github.io/gatsby-starter-miniblog/`,
     siteDescription: "Gatsby Starter by AREA44",
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
@@ -55,8 +55,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter by AREA44`,
-        short_name: `gatsby-starter`,
+        name: `Gatsby Starter MiniBlog by AREA44`,
+        short_name: `gatsby-starter-miniblog`,
         description: `Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and code highlighting.`,
         start_url: `/`,
         background_color: `#fff`,
