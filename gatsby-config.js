@@ -56,7 +56,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Gatsby Starter MiniBlog by AREA44`,
-        short_name: `gatsby-starter-miniblog`,
+        short_name: `Gatsby Starter MiniBlog`,
         description: `Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and code highlighting.`,
         start_url: `/`,
         background_color: `#fff`,
